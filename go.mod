@@ -1,4 +1,4 @@
-module demo
+module github.com/jarvis0919/go-tracer
 
 go 1.22.5
 

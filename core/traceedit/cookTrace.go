@@ -1,9 +1,10 @@
 package traceedit
 
 import (
-	"demo/global"
-	"demo/model"
 	"fmt"
+
+	"github.com/jarvis0919/go-tracer/global"
+	"github.com/jarvis0919/go-tracer/model"
 )
 
 func CookTrace(logs []model.StructLogs, FullTrace bool) []model.StructLogs {

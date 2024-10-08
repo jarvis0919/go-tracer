@@ -2,8 +2,9 @@ package client
 
 import (
 	"context"
-	"demo/model"
 	"log"
+
+	"github.com/jarvis0919/go-tracer/model"
 
 	"github.com/ethereum/go-ethereum/common"
 )

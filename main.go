@@ -1,10 +1,11 @@
 package main
 
 import (
-	"demo/core/client"
-	"demo/core/traceedit"
 	"fmt"
 	"log"
+
+	"github.com/jarvis0919/go-tracer/core/client"
+	"github.com/jarvis0919/go-tracer/core/traceedit"
 
 	"github.com/ethereum/go-ethereum/common"
 )
